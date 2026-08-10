@@ -1,31 +1,40 @@
-## Divyansh
+# Hey there 👋
 
-**Robotics Software Engineer**
+I'm Divyansh, a **Robotics Software Engineer based in India**.
 
-I develop software for autonomous robotic systems, working across
-robotics, autonomy, simulation, and real-world hardware.
+I build real-world autonomous robotic systems — from **robotics software, controllers, and visualization dashboards to SLAM, navigation, autonomy, and sensor integration**.
 
-My experience includes **rovers and autonomous systems**, and I currently
-work on **underwater autonomy**, focusing on the software stack for
-localization, navigation, sensor fusion, and robotic control.
+I've worked on **rovers and autonomous systems**, and currently I'm working on **underwater autonomy**, developing the software side of robotic systems.
 
-I also work with **robotics simulation** for system development,
-testing, and validation.
+I also work with **robotics simulation** for developing and testing autonomous systems.
 
 ---
 
-### Focus
+## What I Work On
 
-- Robotics Software & Autonomous Systems
-- Underwater Robotics & ROVs
-- Localization & Sensor Fusion
-- Navigation & State Estimation
-- Robotics Simulation
-
-### Technologies
-
-`C++` `Python` `ROS 2` `Linux` `Git`
+- 🤖 Robotics Software & Autonomous Systems
+- 🧭 SLAM • Localization • Navigation
+- 🎮 Controllers & Robotics Interfaces
+- 📡 Sensor Integration & Sensor Fusion
+- 🖥️ Visualization & Robotics Dashboards
+- 🌊 Underwater Robotics & Autonomy
+- 🧪 Robotics Simulation
 
 ---
 
-**Building reliable software for autonomous robots.**
+## Tech
+
+`C++` `Python` `ROS 2` `Linux` `Git` `Simulation`
+
+---
+
+## A Little About Me
+
+- 🎨 Cartoon lover
+- 😂 Comedy is my default setting
+- 🏏 Cricket whenever I get the chance
+- ❄️ Winter > summer
+- ✈️ Want to see as much of the world as possible
+- 🔧 Always building or figuring something out
+
+> **Building software that makes robots move, understand, and act.**
