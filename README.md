@@ -1,36 +1,31 @@
-# Hey there 👋
+## Divyansh
 
-I'm Divyansh, a mechanical engineering student who builds robots.
+**Robotics Software Engineer**
 
-I work mostly with C++, Python and ROS 2, with a focus on robotics, autonomy and sensor fusion.
+I develop software for autonomous robotic systems, working across
+robotics, autonomy, simulation, and real-world hardware.
 
-I'm particularly interested in underwater robotics, ROVs, localization and navigation.
+My experience includes **rovers and autonomous systems**, and I currently
+work on **underwater autonomy**, focusing on the software stack for
+localization, navigation, sensor fusion, and robotic control.
 
-I like taking things apart, understanding how they work, and building my own version of them.
-
----
-
-## Tools & Tech
-
-- C++ • Python • ROS 2
-- Robotics • Autonomy • Sensor Fusion
-- Localization • Navigation • Computer Vision
-- Linux • Git • Embedded Systems
+I also work with **robotics simulation** for system development,
+testing, and validation.
 
 ---
 
-## A Bit About Me
+### Focus
 
-- 🤖 Robotics is my thing
-- 🌊 Currently obsessed with underwater robots
-- ⚙️ I enjoy both hardware and software
-- 🧠 I like understanding things from first principles
-- 🔨 If I have an idea, I'll probably try to build it
+- Robotics Software & Autonomous Systems
+- Underwater Robotics & ROVs
+- Localization & Sensor Fusion
+- Navigation & State Estimation
+- Robotics Simulation
+
+### Technologies
+
+`C++` `Python` `ROS 2` `Linux` `Git`
 
 ---
 
-## Currently
-
-Building robots that **work in the real world.**
-
-Learning, experimenting and shipping 🚀
+**Building reliable software for autonomous robots.**
