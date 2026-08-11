@@ -4,7 +4,7 @@ I'm Divyansh, a **Robotics Software Engineer based in India**.
 
 I build real-world autonomous robotic systems — from **robotics software, controllers, and visualization dashboards to SLAM, navigation, autonomy, and sensor integration**.
 
-I've worked on **rovers and autonomous systems**, and currently I'm working on **underwater autonomy**, developing the software side of robotic systems.
+I've worked on **rovers and autonomous systems**, and currently I'm working on **underwater autonomous systems**, developing the software side of robotic systems.
 
 I also work with **robotics simulation** for developing and testing autonomous systems.
 
