@@ -1,40 +1,24 @@
-## Hey there 👋
+# Divyansh Arzare
+### Robotics Software Engineer | Autonomous Systems
 
-I'm Divyansh, a **Robotics Software Engineer based in India**.
+Robotics Software Engineer based in India, working on the development and deployment of autonomous robotic systems. My interests include robotics software, localization, navigation, sensor fusion, and simulation.
 
-I build real-world autonomous robotic systems — from **robotics software, controllers, and visualization dashboards, SLAM , navigation , autonomy , and sensor integration**.
+Currently working on underwater robotics, focusing on localization, sensor integration, and autonomous navigation.
 
-I've worked on **rovers and autonomous systems**, and currently I'm working on **underwater autonomous systems**, developing the software side of robotic systems.
+### Technical Expertise
+- Robotics Software Development
+- ROS 2, Navigation & SLAM
+- Localization & Sensor Fusion
+- C++ and Python
+- Robotics Simulation
+- Embedded Systems & Sensor Integration
+- Visualization Dashboards & Control Interfaces
+- Underwater Robotics
 
-I also work with **robotics simulation** for developing and testing autonomous systems.
+### Technologies
+`C++` `Python` `ROS 2` `Linux` `Nav2` `Gazebo` `Git`
 
----
+### Current Interests
+Autonomous systems, advanced robotics software, and real-world deployment of intelligent robotic platforms.
 
-## What I Work On
-
-- 🤖 Robotics Software & Autonomous Systems
-- 🧭 SLAM • Localization • Navigation
-- 🎮 Controllers & Robotics Interfaces
-- 📡 Sensor Integration & Sensor Fusion
-- 🖥️ Visualization & Robotics Dashboards
-- 🌊 Underwater Robotics & Autonomy
-- 🧪 Robotics Simulation
-
----
-
-## Tech
-
-`C++` `Python` `ROS 2` `Linux` `Git` `Simulation`
-
----
-
-## A Little About Me
-
-- 🎨 Cartoon lover
-- 😂 Comedy is my default setting
-- 🏏 Cricket whenever I get the chance
-- ❄️ Winter > summer
-- ✈️ Want to see as much of the world as possible
-- 🔧 Always building or figuring something out
-
-> **Building software that makes robots move, understand, and act.**
+**Building software for robots that perceive, navigate, and operate autonomously.**
