@@ -1,7 +1,7 @@
 # Divyansh Arzare
 ### Robotics Software Engineer | Autonomous Systems
 
-Robotics Software Engineer based in India, working on the development and deployment of autonomous robotic systems. My interests include robotics software, localization, navigation, sensor fusion, and simulation.
+Robotics Software Engineer based in India, working on the development and deployment of autonomous robotic systems. My interests include robotics software, localization, navigation, sensor fusion, and simulation..
 
 Currently working on underwater robotics, focusing on localization, sensor integration, and autonomous navigation.
 
